@@ -1,2 +1,3 @@
-# mgt4250spring2024
-Data Visualization Course Project
+# MGT 4250 COURSE PROJECT
+Juan Callejo Ropero (jcallejoropero@elon.edu)
+Data Visualization 
