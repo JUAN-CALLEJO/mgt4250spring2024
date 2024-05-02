@@ -171,7 +171,7 @@ df = pd.DataFrame({
     'URL': ['https://elonphoenix.com/sports/mens-golf/roster/juan-callejo-ropero/9597', 'https://elonphoenix.com/sports/mens-golf/roster/matthew-doyle/9598', 'https://elonphoenix.com/sports/mens-golf/roster/timmy-gannon/9600','https://elonphoenix.com/roster.aspx?rp_id=9601','https://elonphoenix.com/sports/mens-golf/roster/jack-wieler/9606','https://elonphoenix.com/sports/mens-golf/roster/oliver-rotermund/9605', 'https://elonphoenix.com/roster.aspx?rp_id=9603', 'https://elonphoenix.com/sports/mens-golf/roster/garrett-risner/9604']
 })
 
-#st.sidebar.image("elon-signature.png", use_column_width=True)
+st.sidebar.image("elon-signature.png", use_column_width=True)
 st.sidebar.title('Golf Roster')
 for _, row in df.iterrows():
     url = row['URL']
