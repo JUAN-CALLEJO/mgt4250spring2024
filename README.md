@@ -23,3 +23,7 @@ these questions are **important** because
 3.  reason 3
 
 [Elon University](https://www.elon.edu)
+
+```python
+import pandas as pd
+```
