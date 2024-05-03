@@ -1,9 +1,9 @@
 # ELON GOLF Data Analysis Interactive App
 ### **MGT 4250 COURSE PROJECT**
-
-
-
 ### *Juan Callejo Ropero*  (jcallejoropero@elon.edu)
+
+[streamlit-Trackman-2024-05-03-00-05-58.webm](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/70b3bd9f-09f5-4655-b039-9af56052daed)
+
 
 ## Project Description
 With the recent popularity increase of golf, new technologies have arrived to college golf. Trackman technology is a dual radar system that captures the trajectory and flight of the ball, as well as the swing path of the golfer. The parameters include ball speed, attack angle, club path, face angle, and spin rate among others. This technology gives instant feedback on each shot, helping players and coaches make data-driven decisions to improve training and strategy.
