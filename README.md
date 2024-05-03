@@ -1,5 +1,5 @@
 # How can data analysis improve Elon Golf Team player's performance?
-### **MGT 4250 COURSE PROJECT**  ![elon-signature](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/2605b07e-087a-4522-a203-2dae7d3e165a)
+### **MGT 4250 COURSE PROJECT**
 ### Juan Callejo Ropero
 
 ### (jcallejoropero@elon.edu)
