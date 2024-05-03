@@ -165,10 +165,7 @@ if st.button('Predict Carry Distance '):
     st.write(f'Predicted Carry Distance:{prediction:.2f} yards')
 
 st.header('Elon Golf Players vs. PGA Tour Professionals')
-
-Player Type	Club Speed (mph)	Attack Angle (degrees)	Ball Speed (mph)	Smash Factor	Launch Angle (degrees)	Spin Rate (rpm)	Max Height (yards)	Land Angle (degrees)	Carry (yards)
-Elon Golf Player									
-PGA Tour Playerr								
+								
 
 
 #-----
