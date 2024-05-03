@@ -1,7 +1,7 @@
 # ELON GOLF Data Analysis Interactive App
 ### **MGT 4250 COURSE PROJECT**
 
-<p align="center"><a href="https://elongolftrackmandata.streamlit.app/"><img width=100% alt="" src="[https://github.com/Kanaries/pygwalker/assets/22167673/bed8b3db-fda8-43e7-8ad2-71f6afb9dddd](https://elongolftrackmandata.streamlit.app/)" /></a></p>
+<p align="center"><a href="https://elongolftrackmandata.streamlit.app/"><img width=100% alt="" src="(https://elongolftrackmandata.streamlit.app/)" /></a></p>
 
 ### *Juan Callejo Ropero*  (jcallejoropero@elon.edu)
 
