@@ -7,7 +7,7 @@ import plotly.express as px
 st.title('Elon Golf Trackman Data Analysis')
 
 st.image('Trackman_Logo.png', caption='')
-st.image('Elon.jpg', caption='')
+#st.image('Elon.jpg', caption='')
 
 st.divider()
 
