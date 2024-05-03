@@ -147,7 +147,7 @@ y_pred = model.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 print(f'Mean Squared Error: {mse}')
 
-st.title('Driver Shot Carry Distance Predictor')
+st.title('IV. Driver Shot Carry Distance Predictor')
 
 club_speed = st.number_input('Club Speed (mph)', value=120)
 spin_rate = st.number_input('Spin Rate (rpm)', value=3000)
