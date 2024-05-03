@@ -165,16 +165,31 @@ if st.button('Predict Carry Distance '):
     st.write(f'Predicted Carry Distance:{prediction:.2f} yards')
 
 st.header('Elon Golf Players vs. PGA Tour Professionals')
-								
+
+df = pd.DataFrame({
+    'Club': ['Driver', 'Driver', '7 Iron', 'Driver', '54º Wedge', 'Driver'],
+    'Club Speed': [110, 115, 90, 108, 85, 112],
+    'Attack Angle': [5, 3, 1, 4, 2, 5],
+    'Ball Speed': [140, 145, 100, 138, 90, 141],
+    'Smash Factor': [1.3, 1.4, 1.2, 1.35, 1.1, 1.33],
+    'Launch Angle': [14, 15, 12, 13, 10, 15],
+    'Spin Rate': [7000, 7100, 6000, 6900, 5500, 7200],
+    'Carry': [230, 240, 180, 225, 150, 235]
+})
+
+# Filter data for 'Driver' and calculate averages
 driver_data = df[df['Club'] == 'Driver']
+average_data = driver_data.mean().round(2)  # Calculate mean and round off to 2 decimal places
 
-average_values = driver_data[['Club Speed (mph)', 'Attack Angle (deg)', 'Ball Speed', 'Smash Factor', 'Launch Angle (deg)', 'Spin Rate', 'Carry (yards)']].mean()
+# Create a DataFrame to display in Streamlit
+average_df = pd.DataFrame([average_data], index=['Average'])
+blank_row = pd.DataFrame([[None]*len(average_df.columns)], columns=average_df.columns, index=['PGA Tour Players'])
+display_df = pd.concat([average_df, blank_row])
 
-average_df = pd.DataFrame(average_values, columns=['Club Speed (mph)', 'Attack Angle (deg)', 'Ball Speed', 'Smash Factor', 'Launch Angle (deg)', 'Spin Rate', 'Carry (yards)']).reset_index()
-average_df.rename(columns={'index': 'Parameter'}, inplace=True)
-
-# Display the averages as a table in Streamlit
-st.table(average_df)
+# Display the DataFrame in Streamlit
+st.title('Golf Shot Data Analysis')
+st.write("Below is the average data for 'Driver' shots and a placeholder for PGA Tour players:")
+st.table(display_df)
 
 #-----
 
