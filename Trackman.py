@@ -166,7 +166,7 @@ if st.button('Predict Carry Distance '):
 
 st.header('Elon Golf Players vs. PGA Tour Professionals')
 
-driver_data = df[(df['Club'] == 'Driver') & (df['Carry (yards)'] >= 240)
+driver_data = df[(df['Club'] == 'Driver')] & (df['Carry (yards)'] >= 240)
 
 data = {
     "Club Speed": [110, 105, 107],  # in mph
