@@ -10,8 +10,8 @@ With the recent popularity increase of golf, new technologies have arrived to co
 - **Using this technology, how can Elon Golf improve its performance?**
   
 Worsley Golf Training Center, (Elon Golf Facility) has two Trackman radars, where players from both Men’s and Women’s players hit and record their shots in their daily practices. There are more than 70,000 shots recorded between 2022 and 2024 in one single trackman radar. Taking in consideration the investment made to have this technology, a correct use of it should not only give immediate detailed feedback but also provide a more data-driven approach to the team practice schedule and routine.
-For this project, data from each team player will be collected. After the collection of more than 300 shots, the data will be cleaned and organized to work with the relevant parameters. Finally, visualizations will be created to help the players see team trends and emphasize areas for improvement and what is causing them problems.
-For this project, every player recorded three different shots multiple times; First, a 100yds shot. Secondly, a 175yds shot and finally a Driver.
+
+For this project, data from each team player will be collected. After the collection of more than 300 shots, the data will be cleaned and organized to work with the relevant parameters. Finally, an interactive [App](https://elongolftrackmandata.streamlit.app/) will show multiple visualizations that help the players identify hitting patterns as well as emphasizing areas for improvement.
 
 ![Trackman_Logo](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/bfc29e68-6726-4cac-b46c-e97b68aa4fee)
 
@@ -30,6 +30,7 @@ IV. Driver Shot Carry Distance Predictor
 
 ## Data Description
 
+For this project, every player recorded three different shots multiple times (@10 per shot); First, a 100yds shot. Secondly, a 175yds shot and finally a Driver.
 
 | Data Type | Description |
 | ----------- | ----------- |
