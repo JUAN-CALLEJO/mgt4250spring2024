@@ -28,6 +28,8 @@ III. How accurate are Elon players regarding distance dispersion? What is the ar
 
 IV. Driver Shot Carry Distance Predictor
 
+V. Comparison to PGA Tour Players
+
 ## Data Description
 
 For this project, every player recorded three different shots multiple times (@10 per shot); First, a 100yds shot. Secondly, a 175yds shot and finally a Driver.
@@ -65,7 +67,10 @@ For this project, every player recorded three different shots multiple times (@1
 
 ## Discussion and Summary
 
-
+| Player Type       | Club Speed (mph) | Attack Angle (degrees) | Ball Speed (mph) | Smash Factor | Launch Angle (degrees) | Spin Rate (rpm) | Max Height (yards) | Land Angle (degrees) | Carry (yards) |
+|-------------------|------------------|------------------------|------------------|--------------|-----------------------|-----------------|--------------------|----------------------|---------------|
+| Elon Golf Player (avg)  |                  |                        |                  |              |                       |                 |                    |                      |               |
+| PGA Tour Player (avg)  |                  |                        |                  |              |                       |                 |                    |                      |               |
 ### Importance Statement
 these questions are **important** because
 1. reason 1
