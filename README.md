@@ -22,9 +22,12 @@ Q1 - How can data analysis improve Elon Golf Team player's performance?
 Q2 - How can golfers deliver a more data-driven approach to their practice?
 
 ## Data Description
+| Data Type | Description |
+| ----------- | ----------- |
+| Date | Date the shot was recorded |
+| Paragraph | Text |
 
-Data Type           Description
-Date                Date the shot was recorded
+Date                
 Player              Name of the Player
 Club                Golf Club used
 Ball                Type of ball used
