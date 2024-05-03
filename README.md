@@ -25,12 +25,19 @@ Q2 - How can golfers deliver a more data-driven approach to their practice?
 | Data Type | Description |
 | ----------- | ----------- |
 | Date | Date the shot was recorded |
-| Paragraph | Text |
-
-Date                
-Player              Name of the Player
-Club                Golf Club used
-Ball                Type of ball used
+| Player |  Name of the Player |
+| Club |  Golf Club used |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+| ----------- | ----------- |
+             
+|Ball   |             Type of ball used|
 Club Speed          The speed of the center of the clubface at first contact with the ball
 Attack Angle        Vertical (up/down) angle at which the club head is moving at impact
 Club Path           The direction the club is moving (left or right) at the point of impact
