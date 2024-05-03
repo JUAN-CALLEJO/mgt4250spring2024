@@ -164,24 +164,6 @@ if st.button('Predict Carry Distance '):
     prediction = model.predict(input_df)[0]  # Predict method expects a DataFrame
     st.write(f'Predicted Carry Distance:{prediction:.2f} yards')
 
-st.header('Elon Golf Players vs. PGA Tour Professionals')
-
-data = {
-    "Club Speed": [110, 105, 107],  # in mph
-    "Attack Angle": [2, -1, 3],     # in degrees
-    "Ball Speed": [160, 155, 158],  # in mph
-    "Smash Factor": [1.45, 1.48, 1.47], 
-    "Launch Angle": [14, 15, 13],   # in degrees
-    "Spin Rate": [2600, 2700, 2650],  # in rpm
-    "Carry": [280, 270, 275]        # in yards
-}
-
-# Create DataFrame
-df = pd.DataFrame(data)
-
-# Display the DataFrame
-st.print(df)
-
 #-----
 
 df = pd.DataFrame({
