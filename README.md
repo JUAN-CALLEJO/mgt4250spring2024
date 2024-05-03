@@ -27,31 +27,32 @@ Q2 - How can golfers deliver a more data-driven approach to their practice?
 | Date | Date the shot was recorded |
 | Player |  Name of the Player |
 | Club |  Golf Club used |
-| ----------- | ----------- |
-| ----------- | ----------- |
-| ----------- | ----------- |
-| ----------- | ----------- |
-| ----------- | ----------- |
-| ----------- | ----------- |
+| Ball | Type of ball used |
+| Club Speed | The speed of the center of the clubface at first contact with the ball |
+| Attack Angle | Vertical (up/down) angle at which the club head is moving at impact |
+| Club Path | The direction the club is moving (left or right) at the point of impact |
+| Low Point |  The lowest point in the swing arc before the clubhead comes back up |
+| Swing Direction | The overall direction the clubhead is moving through impact, relative to the target line |
+| Dyn. Loft | The dynamic loft of the club at the point of impact |
+| Face Angle | The angle of the clubface relative to the target line at the moment of impact |
+| Face To Path  | The difference between where the clubface is pointing and the path it's on at impact |
+| Ball Speed | The speed of the ball immediately after impact |
+| Smash Factor | The ratio of ball speed to club speed |
+| Launch Angle | The angle at which the ball takes off relative to the ground |
+| Launch Direction | The direction the ball starts relative to the target line |
+| Spin Rate | The amount of spin on the ball immediately after impact |
+| Spin Axis | The tilt of the spin axis relative to the horizon |
 | ----------- | ----------- |
 | ----------- | ----------- |
 | ----------- | ----------- |
              
-|Ball   |             Type of ball used|
-Club Speed          The speed of the center of the clubface at first contact with the ball
-Attack Angle        Vertical (up/down) angle at which the club head is moving at impact
-Club Path           The direction the club is moving (left or right) at the point of impact
-Low Point           The lowest point in the swing arc before the clubhead comes back up
-Swing Direction     The overall direction the clubhead is moving through impact, relative to the target line
-Dyn. Loft           The dynamic loft of the club at the point of impact
-Face Angle          The angle of the clubface relative to the target line at the moment of impact
-Face To Path        The difference between where the clubface is pointing and the path it's on at impact
-Ball Speed          The speed of the ball immediately after impact
-Smash Factor        The ratio of ball speed to club speed
-Launch Angle        The angle at which the ball takes off relative to the ground
-Launch Direction    The direction the ball starts relative to the target line
-Spin Rate           The amount of spin on the ball immediately after impact
-Spin Axis           The tilt of the spin axis relative to the horizon
+       
+          
+        
+        
+    
+           
+           
 Impact Offset       Lateral distance from the center of the clubface at impact
 Impact Height       Vertical distance from the center of the clubface at impact
 Curve               The amount of curve on the ball's flight in feet
