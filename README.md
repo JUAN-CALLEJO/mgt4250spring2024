@@ -20,11 +20,11 @@ For this project, every player recorded three different shots multiple times; Fi
 
 
 ### Questions of interest
-Q1 - Whats the relationship between Club Speed and Carry Distance among the team?
+I. Whats the relationship between Club Speed and Carry Distance among the team?
 
-Q2 - How does Impact Height Position affect Ball Speed with a Driver?
+II. How does Impact Height Position affect Ball Speed with a Driver?
 
-Q3 - How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
+III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
 
 ## Data Description
 
