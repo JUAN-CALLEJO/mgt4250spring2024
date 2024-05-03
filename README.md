@@ -1,6 +1,7 @@
 # How can data analysis improve Elon Golf Team player's performance?
-### **MGT 4250 COURSE PROJECT**
+### **MGT 4250 COURSE PROJECT**  ![elon-signature](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/2605b07e-087a-4522-a203-2dae7d3e165a)
 ### Juan Callejo Ropero
+
 ### (jcallejoropero@elon.edu)
 ## Project Description
 With the recent popularity increase of golf, new technologies have arrived in college golf too. Trackman technology is a dual radar system that captures the trajectory and flight of the ball, as well as the swing path of the golfer. The parameters include ball speed, attack angle, club path, face angle, and spin rate among others. This technology gives instant feedback on each shot, helping players and coaches make data-driven decisions to improve training and strategy.
