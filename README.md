@@ -1,4 +1,4 @@
-# How can data analysis improve Elon Golf Team player's performance?
+# ELON GOLF Data Analysis Interactive App
 ### **MGT 4250 COURSE PROJECT**
 ### *Juan Callejo Ropero*  (jcallejoropero@elon.edu)
 
