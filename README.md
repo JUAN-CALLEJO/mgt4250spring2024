@@ -9,10 +9,10 @@ Worsley Golf Training Center, (Elon Golf Facility) has two Trackman radars, wher
 For this project, data from each team player will be collected. After the collection of more than 300 shots, the data will be cleaned and organized to work with the relevant parameters. Finally, visualizations will be created to help the players see team trends and emphasize areas for improvement and what is causing them problems.
 Each player will be asked to hit three different shots repeatedly; First, a 100yds shot. Secondly, a 175yds shot and finally a Driver.
 
-**Elon Golf Data:** [Visualizations](https://elongolftrackmandata.streamlit.app/)
-
-
 ![Trackman_Logo](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/bfc29e68-6726-4cac-b46c-e97b68aa4fee)
+
+
+**Elon Golf Data:** [Visualizations](https://elongolftrackmandata.streamlit.app/)
 
 
 #### [Data Visualizations](https://elongolftrackmandata.streamlit.app/) 
