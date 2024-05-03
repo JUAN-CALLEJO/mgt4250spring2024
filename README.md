@@ -17,11 +17,11 @@ For this project, every player recorded three different shots multiple times; Fi
 
 
 ### Questions of interest
-Q1 - How can data analysis improve Elon Golf Team player's performance?
+Q1 - Whats the relationship between Club Speed and Carry Distance among the team?
 
-Q2 - How can golfers deliver a more data-driven approach to their practice?
+Q2 - How does Impact Height Position affect Ball Speed with a Driver?
 
-Q3 - What is the area each player has to improve?
+Q3 - How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
 
 ## Data Description
 
@@ -66,8 +66,3 @@ these questions are **important** because
 2. reaason 2
 3. reason 3
 
-[Elon University](https://www.elon.edu)
-
-```python
-import pandas as pd
-```
