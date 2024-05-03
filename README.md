@@ -65,10 +65,6 @@ For this project, every player recorded three different shots multiple times (@1
 
 ## Discussion and Summary
 
-| Player Type       | Club Speed (mph) | Attack Angle (degrees) | Ball Speed (mph) | Smash Factor | Launch Angle (degrees) | Spin Rate (rpm) | Max Height (yards) | Land Angle (degrees) | Carry (yards) |
-|-------------------|------------------|------------------------|------------------|--------------|-----------------------|-----------------|--------------------|----------------------|---------------|
-| Elon Golf Player (avg)  |                  |                        |                  |              |                       |                 |                    |                      |               |
-| PGA Tour Player (avg)  |                  |                        |                  |              |                       |                 |                    |                      |               |
 ### Importance Statement
 these questions are **important** because
 1. reason 1
