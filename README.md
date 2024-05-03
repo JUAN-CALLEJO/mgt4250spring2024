@@ -42,25 +42,13 @@ Q2 - How can golfers deliver a more data-driven approach to their practice?
 | Launch Direction | The direction the ball starts relative to the target line |
 | Spin Rate | The amount of spin on the ball immediately after impact |
 | Spin Axis | The tilt of the spin axis relative to the horizon |
-| ----------- | ----------- |
-| ----------- | ----------- |
-| ----------- | ----------- |
+| Impact Offset | Lateral distance from the center of the clubface at impact |
+| Impact Height |  Vertical distance from the center of the clubface at impact |
+| Curve |  The amount of curve on the ball's flight in feet |
+| Carry (Sim) |  The simulated carry distance of the ball |
+| Total (Sim) | The simulated total distance of the ball including roll |
+| Email |  Contact email of the Player |
              
-       
-          
-        
-        
-    
-           
-           
-Impact Offset       Lateral distance from the center of the clubface at impact
-Impact Height       Vertical distance from the center of the clubface at impact
-Curve               The amount of curve on the ball's flight in feet
-Carry (Sim)         The simulated carry distance of the ball
-Total (Sim)         The simulated total distance of the ball including roll
-Email               Contact email of the Player
-
-
 ## Interpreting Visualizations
 
 ![newplot](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/c567671b-89d5-4805-8ff1-f32b9f5569f3)
