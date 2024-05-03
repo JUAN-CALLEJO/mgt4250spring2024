@@ -178,12 +178,10 @@ data = {
         "Land Angle (degrees)": [None, None],  # degrees
         "Carry (yards)": [None, None]  # yards
     }
-
-    # Create DataFrame
-    df = pd.DataFrame(data)
-
-    # Display the DataFrame
-    st.table(df)
+# Create DataFrame
+df = pd.DataFrame(data)
+# Display the DataFrame
+st.table(df)
 
 if __name__ == "__main__":
     main()
