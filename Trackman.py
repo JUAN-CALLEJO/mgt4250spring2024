@@ -166,7 +166,7 @@ if st.button('Predict Carry Distance '):
 
 st.header('V. Comparison')
 
- data = {
+data = {
         "Player Type": ["Elon Golf Player (avg)", "PGA Tour Player (avg)"],
         "Club Speed (mph)": [None, None],  # mph
         "Attack Angle (degrees)": [None, None],  # degrees
