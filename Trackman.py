@@ -166,7 +166,15 @@ if st.button('Predict Carry Distance '):
 
 st.header('Elon Golf Players vs. PGA Tour Professionals')
 								
+driver_data = df[df['Club'] == 'Driver']
 
+average_values = driver_data[['Club Speed (mph)', 'Attack Angle (deg)', 'Ball Speed', 'Smash Factor', 'Launch Angle (deg)', 'Spin Rate', 'Carry (yards)']].mean()
+
+average_df = pd.DataFrame(average_values, columns=['Average']).reset_index()
+average_df.rename(columns={'index': 'Parameter'}, inplace=True)
+
+# Display the averages as a table in Streamlit
+st.table(average_df)
 
 #-----
 
