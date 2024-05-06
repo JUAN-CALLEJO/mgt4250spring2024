@@ -68,18 +68,19 @@ For accessing this data, a Trackman Radar recorded the multiple shots from the t
              
 ### Interpreting Visualizations
 
-I. What's the relationship between Club Speed and Carry Distance among the team?
+**I. What's the relationship between Club Speed and Carry Distance among the team?**
 
 ![newplot (1)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/23bdeeff-b84b-4e97-aaf9-42c575cb2cc1)
 
 This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. 
 
-II. How does Impact Height Position Affect Ball Speed with a Driver?
+**II. How does Impact Height Position Affect Ball Speed with a Driver?**
 
 ![newplot (2)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/88c9a6f1-069e-4e06-80d8-44d8f855439b)
 
+This visualization shows how when players  contact the ball near the center or slightly above the center of the club face, the ball speed and smash factor increase. The lower ball speeds recorded have a lower smash factor (blue) and a negative impact height while the higher ball speeds are located on the positive side of the chart, having a higher ball speed and higher smash factor (yellow). The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed.
 
-III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
+**III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?**
 
 ![newplot (3)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/3cf9aaed-7b7f-4884-ab4e-9828fe368f05)
 
@@ -87,7 +88,7 @@ III. How accurate are Elon players regarding distance dispersion? What is the ar
 
 ![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
 
-IV. Driver Shot Carry Distance Predictor
+**IV. Driver Shot Carry Distance Predictor**
 
 ![driverpredictor](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/83da0335-480d-40f8-9b2e-228f9c314c6f)
 
@@ -96,5 +97,9 @@ IV. Driver Shot Carry Distance Predictor
 
 ### Importance Statement
 I. What's the relationship between Club Speed and Carry Distance among the team?
-- It is strongly correlated, players with a higher club speed will drive the ball further, giving them an advantage and making courses shorter. The boxplot shows the distribution, having players with a slower club speed in the range 105-110 mph and other players with 120+ mph of Club Head Speed. 
 
+- It is strongly correlated, players with a higher club speed drive the ball further, giving them an advantage while making courses easier. The boxplot shows the team distribution, with players with a slower club speed in the range of 105-110 mph and other players with a 120+ mph Club Head Speed driving the ball 310+ Yards of Carry distance.
+  
+II. How does Impact Height Position Affect Ball Speed with a Driver?
+
+- The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed. The sweet spot of the driver's face is 2mm above the center of the face. The sweet spot is the impact zone of the club face where the most ball speed and smash factor are generated. Higher impacts in the face tend to generate higher ball speed than lower impacts in the club face with a driver.
