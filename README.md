@@ -70,17 +70,29 @@ For accessing this data, a Trackman Radar recorded the multiple shots from the t
 
 I. What's the relationship between Club Speed and Carry Distance among the team?
 
+![newplot (1)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/23bdeeff-b84b-4e97-aaf9-42c575cb2cc1)
+
+
 II. How does Impact Height Position Affect Ball Speed with a Driver?
+
+![newplot (2)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/88c9a6f1-069e-4e06-80d8-44d8f855439b)
+
 
 III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
 
+![newplot (3)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/3cf9aaed-7b7f-4884-ab4e-9828fe368f05)
+
+![newplot (4)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/df8adef2-3988-4b93-8e60-31f0da553d33)
+
+![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
+
 IV. Driver Shot Carry Distance Predictor
+
+![driverpredictor](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/83da0335-480d-40f8-9b2e-228f9c314c6f)
+
 
 ## Discussion and Summary
 
 ### Importance Statement
-these questions are **important** because
-1. reason 1
-2. reaason 2
-3. reason 3
+
 
