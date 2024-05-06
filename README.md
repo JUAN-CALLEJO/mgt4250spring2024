@@ -72,6 +72,7 @@ I. What's the relationship between Club Speed and Carry Distance among the team?
 
 ![newplot (1)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/23bdeeff-b84b-4e97-aaf9-42c575cb2cc1)
 
+This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. 
 
 II. How does Impact Height Position Affect Ball Speed with a Driver?
 
@@ -94,5 +95,6 @@ IV. Driver Shot Carry Distance Predictor
 ## Discussion and Summary
 
 ### Importance Statement
-
+I. What's the relationship between Club Speed and Carry Distance among the team?
+- It is strongly correlated, players with a higher club speed will drive the ball further, giving them an advantage and making courses shorter. The boxplot shows the distribution, having players with a slower club speed in the range 105-110 mph and other players with 120+ mph of Club Head Speed. 
 
