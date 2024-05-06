@@ -30,7 +30,10 @@ IV. Driver Shot Carry Distance Predictor
 
 ## Data Description
 
-For this project, every player recorded three different shots multiple times (@10 per shot); First, a 100yds shot. Secondly, a 175yds shot and finally a Driver.
+For this project, every player recorded three different shots ten times:
+- 100 yds 
+- 175 yds 
+- Driver
 
 For accessing this data, a Trackman Radar recorded the multiple shots from the team members. Once recorded, the raw data was imported and then selected from the connected computer at Elon Golf facility. The initial file was the Trackman file which was converted to a excel file and then to csv file. Preprocessing and cleaning the dataset consisted in removing missing metrics of some shots and deleting outliers that where caused by wrecked golf balls or miscalculations.
 
