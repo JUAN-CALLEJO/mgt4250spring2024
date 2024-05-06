@@ -84,6 +84,10 @@ This visualization shows how when players  contact the ball near the center or s
 
 ![newplot (3)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/3cf9aaed-7b7f-4884-ab4e-9828fe368f05)
 
+
+This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, Matt Doyle, and Juan Callejo seem to be the most accurate, with medians right at the target line. Ollie Rotermund shows great consistency with a narrow box, while Jennings Glenn and Pedro Rabadan exhibit the most variability in their shot distances. Jack Wieler and Timmy Gannon have tendencies to overshoot the target, while Juan Callejo, Garret, and Matt Doyle tend to undershoot but are accurate in this shot. 
+
+
 ![newplot (4)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/df8adef2-3988-4b93-8e60-31f0da553d33)
 
 ![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
@@ -103,3 +107,7 @@ I. What's the relationship between Club Speed and Carry Distance among the team?
 II. How does Impact Height Position Affect Ball Speed with a Driver?
 
 - The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed. The sweet spot of the driver's face is 2mm above the center of the face. The sweet spot is the impact zone of the club face where the most ball speed and smash factor are generated. Higher impacts in the face tend to generate higher ball speed than lower impacts in the club face with a driver.
+
+III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
+
+- Working in distance control is crucial to shoot good rounds, therefore having control of the carry distance is key. Players should consistently work at different distances to know their game and trend dispersion to adjust decisions on the course. 
