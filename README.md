@@ -59,9 +59,15 @@ For this project, every player recorded three different shots multiple times (@1
 | Total (Sim) | The simulated total distance of the ball including roll |
 | Email |  Contact email of the Player |
              
-## Interpreting Visualizations
+### Interpreting Visualizations
 
-![newplot](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/c567671b-89d5-4805-8ff1-f32b9f5569f3)
+I. What's the relationship between Club Speed and Carry Distance among the team?
+
+II. How does Impact Height Position Affect Ball Speed with a Driver?
+
+III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
+
+IV. Driver Shot Carry Distance Predictor
 
 ## Discussion and Summary
 
