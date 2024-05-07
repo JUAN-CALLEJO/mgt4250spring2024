@@ -35,7 +35,7 @@ For this project, every player recorded three different shots ten times:
 - 175 yds 
 - Driver
 
-For accessing the [Player Data](https://github.com/JUAN-CALLEJO/mgt4250spring2024/blob/main/player_data.csv), a Trackman Radar recorded the multiple shots from the team members. Once recorded, the raw data was imported and then selected from the connected computer at Elon Golf facility. The initial file was the Trackman file which was converted to a excel file and then to csv file. Preprocessing and cleaning the dataset consisted in removing missing metrics of some shots and deleting outliers that where caused by wrecked golf balls or miscalculations.
+For accessing the [Player Data](https://github.com/JUAN-CALLEJO/mgt4250spring2024/blob/main/player_data.csv), a Trackman Radar recorded the multiple shots from the team members. Once recorded, the raw data was imported and selected from the Elon Golf facility's connected computer. The initial file was the Trackman file which was converted to a Excel file and then to csv file. Preprocessing and cleaning the dataset consisted in removing missing metrics of some shots and deleting outliers that were caused by wrecked golf balls or miscalculations.
 
 ### Column Descriptions:
 
@@ -72,7 +72,7 @@ For accessing the [Player Data](https://github.com/JUAN-CALLEJO/mgt4250spring202
 
 ![newplot (1)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/23bdeeff-b84b-4e97-aaf9-42c575cb2cc1)
 
-This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. It is strongly correlated, players with a higher club speed drive the ball further, giving them an advantage while making courses easier. The boxplot shows the team distribution, with players with a slower club speed in the range of 105-110 mph and other players with a 120+ mph Club Head Speed driving the ball 310+ Yards of Carry distance.
+This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows one to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. It is strongly correlated, players with a higher club speed drive the ball further, giving them an advantage while making courses easier. The boxplot shows the team distribution, with players with a slower club speed in the range of 105-110 mph and other players with a 120+ mph Club Head Speed driving the ball 310+ Yards of Carry distance.
 
 **II. How does Impact Height Position Affect Ball Speed with a Driver?**
 
@@ -89,14 +89,14 @@ This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, 
 
 ![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
 
-The visualization above shows a more detailed boxplot of Ollie Rotermund's distance dispersion in a 100 yard shot.
+The visualization above shows a more detailed boxplot of Ollie Rotermund's distance dispersion in a 100-yard shot.
 
 
 **IV. Driver Shot Carry Distance Predictor**
 
 ![driverpredictor](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/83da0335-480d-40f8-9b2e-228f9c314c6f)
 
-This is a model to predict the carry distance of a Driver in yards by selecting Club Speed (mph) and Spin rate of a golf shot. It is helpfull to set objectives for training. For example, a player wants to hit it 300 yards. This Prediction model will help the player know at which speed needs to swing the club for achieving the goal carry distance in yards.
+This is a model to predict the carry distance of a Driver in yards by selecting Club Speed (mph) and Spin rate of a golf shot. It is helpful to set objectives for training. For example, a player wants to hit it 300 yards. This Prediction model will help the player know at which speed needs to swing the club for achieving the goal carry distance in yards.
 
 
 ## Discussion and Summary
@@ -114,7 +114,7 @@ What would an AI answer to the same questions?
 
 *II. How does Impact Height Position Affect Ball Speed with a Driver?*
 
-*Impact height position can significantly affect ball speed with a driver. Ideally, a golfer wants to strike the ball with a slightly upward angle of attack ("hitting up" on the ball) to maximize distance with a driver. This is because hitting up on the ball can reduce backspin and increase launch angle, leading to a longer carry and overall distance. If impact height position is too low (hitting down on the ball), it can result in higher backspin, lower launch, and decreased ball speed.*
+*Impact height position can significantly affect ball speed with a driver. Ideally, a golfer wants to strike the ball with a slightly upward angle of attack ("hitting up" on the ball) to maximize distance with a driver. This is because hitting up on the ball can reduce backspin and increase launch angle, leading to a longer carry and overall distance. If the impact height position is too low (hitting down on the ball), it can result in higher backspin, lower launch, and decreased ball speed.*
 
 *III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?*
 
