@@ -72,20 +72,20 @@ For accessing this data, a Trackman Radar recorded the multiple shots from the t
 
 ![newplot (1)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/23bdeeff-b84b-4e97-aaf9-42c575cb2cc1)
 
-This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. 
+This visualization plots the data points in a club speed range between 103-124 mph, showing an existent strong correlation between the club speed (mph) and the carry distance (yards). It is an interactive scatter plot that allows to select players in the team, giving a better perspective of how the players are distributed in distance and club speed. It is strongly correlated, players with a higher club speed drive the ball further, giving them an advantage while making courses easier. The boxplot shows the team distribution, with players with a slower club speed in the range of 105-110 mph and other players with a 120+ mph Club Head Speed driving the ball 310+ Yards of Carry distance.
 
 **II. How does Impact Height Position Affect Ball Speed with a Driver?**
 
 ![newplot (2)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/88c9a6f1-069e-4e06-80d8-44d8f855439b)
 
-This visualization shows how when players  contact the ball near the center or slightly above the center of the club face, the ball speed and smash factor increase. The lower ball speeds recorded have a lower smash factor (blue) and a negative impact height while the higher ball speeds are located on the positive side of the chart, having a higher ball speed and higher smash factor (yellow). The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed.
+This visualization shows how when players  contact the ball near the center or slightly above the center of the club face, the ball speed and smash factor increase. The lower ball speeds recorded have a lower smash factor (blue) and a negative impact height while the higher ball speeds are located on the positive side of the chart, having a higher ball speed and higher smash factor (yellow). The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed. The sweet spot of the driver's face is 2mm above the center of the face. The sweet spot is the impact zone of the club face where the most ball speed and smash factor are generated. Higher impacts in the face tend to generate higher ball speed than lower impacts in the club face with a driver.
 
 **III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?**
 
 ![newplot (3)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/3cf9aaed-7b7f-4884-ab4e-9828fe368f05)
 
 
-This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, Matt Doyle, and Juan Callejo seem to be the most accurate, with medians right at the target line. Ollie Rotermund shows great consistency with a narrow box, while Jennings Glenn and Pedro Rabadan exhibit the most variability in their shot distances. Jack Wieler and Timmy Gannon have tendencies to overshoot the target, while Juan Callejo, Garret, and Matt Doyle tend to undershoot but are accurate in this shot. 
+This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, Matt Doyle, and Juan Callejo seem to be the most accurate, with medians right at the target line. Ollie Rotermund shows great consistency with a narrow box, while Jennings Glenn and Pedro Rabadan exhibit the most variability in their shot distances. Jack Wieler and Timmy Gannon have tendencies to overshoot the target, while Juan Callejo, Garret, and Matt Doyle tend to undershoot but are accurate in this shot. Working in distance control is crucial to shoot good rounds, therefore having control of the carry distance is key. Players should consistently work at different distances to know their game and trend dispersion to adjust decisions on the course. 
 
 
 ![newplot (4)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/df8adef2-3988-4b93-8e60-31f0da553d33)
@@ -98,20 +98,23 @@ This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, 
 
 
 ## Discussion and Summary
+
 [This Article](https://www.sportperformanceanalysis.com/article/increasing-presence-of-data-analytics-in-golf)
- highlights how technology, such as ShotLink and smart equipment like swing sensors and rangefinders, revolutionizes player training, strategy, and performance evaluation. It also explores the huge impact of data analytics in golf. In order to assist golfers and broadcasters, the PGA Tour has developed sophisticated systems that analyze large amounts of data, improving both player performance and audience engagement. Additionally, golf course management uses data analytics to optimize course design and maintenance based on comprehensive play data.
+highlights how technology, such as ShotLink and smart equipment like swing sensors and rangefinders, revolutionizes player training, strategy, and performance evaluation. It also explores the huge impact of data analytics in golf. In order to assist golfers and broadcasters, the PGA Tour has developed sophisticated systems that analyze large amounts of data, improving both player performance and audience engagement. Additionally, golf course management uses data analytics to optimize course design and maintenance based on comprehensive play data.
 
-What would a AI answer to the same prompt questions?
+What would an AI answer to the same questions?
 
-### Importance Statement
+ChatGPT:
+
 I. What's the relationship between Club Speed and Carry Distance among the team?
 
-- It is strongly correlated, players with a higher club speed drive the ball further, giving them an advantage while making courses easier. The boxplot shows the team distribution, with players with a slower club speed in the range of 105-110 mph and other players with a 120+ mph Club Head Speed driving the ball 310+ Yards of Carry distance.
-  
+The relationship between club speed and carry distance among a team can be quite significant. Generally, as club speed increases, so does the potential for greater carry distance. This is because a higher club speed typically results in more energy transferred to the ball, leading to increased ball speed and thus longer distances. However, it's crucial to note that other factors like launch angle, spin rate, and angle of attack also play vital roles in determining the final carry distance.
+
 II. How does Impact Height Position Affect Ball Speed with a Driver?
 
-- The players that hit the ball shorter (low ball speed), trying to hit the ball higher in the face will optimize their distance by increasing the smash factor and ball speed. The sweet spot of the driver's face is 2mm above the center of the face. The sweet spot is the impact zone of the club face where the most ball speed and smash factor are generated. Higher impacts in the face tend to generate higher ball speed than lower impacts in the club face with a driver.
+Impact height position can significantly affect ball speed with a driver. Ideally, a golfer wants to strike the ball with a slightly upward angle of attack ("hitting up" on the ball) to maximize distance with a driver. This is because hitting up on the ball can reduce backspin and increase launch angle, leading to a longer carry and overall distance. If impact height position is too low (hitting down on the ball), it can result in higher backspin, lower launch, and decreased ball speed.
 
 III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
 
-- Working in distance control is crucial to shoot good rounds, therefore having control of the carry distance is key. Players should consistently work at different distances to know their game and trend dispersion to adjust decisions on the course. 
+Assessing the accuracy of Elon players regarding distance dispersion would require looking at their performance data, such as shot tracking information. Each player's distance dispersion accuracy can vary based on factors like swing consistency, club selection, and course conditions. Areas for improvement may include enhancing shot consistency, optimizing club selection for different distances, and refining course management strategies to minimize dispersion and improve overall accuracy.
+
