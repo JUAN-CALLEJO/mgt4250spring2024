@@ -19,7 +19,7 @@ For this project, data from each team player will be collected. After the collec
 **Elon Golf Data:** [Interactive App](https://elongolftrackmandata.streamlit.app/)
 
 
-### Questions of interest
+## Questions of interest
 I. What's the relationship between Club Speed and Carry Distance among the team?
 
 II. How does Impact Height Position Affect Ball Speed with a Driver?
