@@ -98,6 +98,10 @@ This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, 
 
 
 ## Discussion and Summary
+[This Article](https://www.sportperformanceanalysis.com/article/increasing-presence-of-data-analytics-in-golf)
+ highlights how technology, such as ShotLink and smart equipment like swing sensors and rangefinders, revolutionizes player training, strategy, and performance evaluation. It also explores the huge impact of data analytics in golf. In order to assist golfers and broadcasters, the PGA Tour has developed sophisticated systems that analyze large amounts of data, improving both player performance and audience engagement. Additionally, golf course management uses data analytics to optimize course design and maintenance based on comprehensive play data.
+
+What would a AI answer to the same prompt questions?
 
 ### Importance Statement
 I. What's the relationship between Club Speed and Carry Distance among the team?
