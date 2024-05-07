@@ -120,3 +120,6 @@ What would an AI answer to the same questions?
 
 *Assessing the accuracy of Elon players regarding distance dispersion would require looking at their performance data, such as shot tracking information. Each player's distance dispersion accuracy can vary based on factors like swing consistency, club selection, and course conditions. Areas for improvement may include enhancing shot consistency, optimizing club selection for different distances, and refining course management strategies to minimize dispersion and improve overall accuracy.*
 
+Does the AI align with my answers?
+
+All of the answers are correct but lack some detail because the AI does not have the visualizations or the data. Still, all the objections made about club dynamics and the effect on the ball are correct. It is interesting to see how it develops a good answer and puts examples from different perspectives. The article emphasizes how important data is for golf and the growth of the game. 
