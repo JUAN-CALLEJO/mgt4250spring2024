@@ -106,17 +106,17 @@ highlights how technology, such as ShotLink and smart equipment like swing senso
 
 What would an AI answer to the same questions?
 
-ChatGPT:
+*ChatGPT:*
 
-I. What's the relationship between Club Speed and Carry Distance among the team?
+*I. What's the relationship between Club Speed and Carry Distance among the team?*
 
-The relationship between club speed and carry distance among a team can be quite significant. Generally, as club speed increases, so does the potential for greater carry distance. This is because a higher club speed typically results in more energy transferred to the ball, leading to increased ball speed and thus longer distances. However, it's crucial to note that other factors like launch angle, spin rate, and angle of attack also play vital roles in determining the final carry distance.
+*The relationship between club speed and carry distance among a team can be quite significant. Generally, as club speed increases, so does the potential for greater carry distance. This is because a higher club speed typically results in more energy transferred to the ball, leading to increased ball speed and thus longer distances. However, it's crucial to note that other factors like launch angle, spin rate, and angle of attack also play vital roles in determining the final carry distance.*
 
-II. How does Impact Height Position Affect Ball Speed with a Driver?
+*II. How does Impact Height Position Affect Ball Speed with a Driver?*
 
-Impact height position can significantly affect ball speed with a driver. Ideally, a golfer wants to strike the ball with a slightly upward angle of attack ("hitting up" on the ball) to maximize distance with a driver. This is because hitting up on the ball can reduce backspin and increase launch angle, leading to a longer carry and overall distance. If impact height position is too low (hitting down on the ball), it can result in higher backspin, lower launch, and decreased ball speed.
+*Impact height position can significantly affect ball speed with a driver. Ideally, a golfer wants to strike the ball with a slightly upward angle of attack ("hitting up" on the ball) to maximize distance with a driver. This is because hitting up on the ball can reduce backspin and increase launch angle, leading to a longer carry and overall distance. If impact height position is too low (hitting down on the ball), it can result in higher backspin, lower launch, and decreased ball speed.*
 
-III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?
+*III. How accurate are Elon players regarding distance dispersion? What is the area each player has to improve?*
 
-Assessing the accuracy of Elon players regarding distance dispersion would require looking at their performance data, such as shot tracking information. Each player's distance dispersion accuracy can vary based on factors like swing consistency, club selection, and course conditions. Areas for improvement may include enhancing shot consistency, optimizing club selection for different distances, and refining course management strategies to minimize dispersion and improve overall accuracy.
+*Assessing the accuracy of Elon players regarding distance dispersion would require looking at their performance data, such as shot tracking information. Each player's distance dispersion accuracy can vary based on factors like swing consistency, club selection, and course conditions. Areas for improvement may include enhancing shot consistency, optimizing club selection for different distances, and refining course management strategies to minimize dispersion and improve overall accuracy.*
 
