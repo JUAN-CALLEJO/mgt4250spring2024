@@ -96,7 +96,7 @@ The visualization above shows a more detailed boxplot of Ollie Rotermund's dista
 
 ![driverpredictor](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/83da0335-480d-40f8-9b2e-228f9c314c6f)
 
-This is a model to predict the carry distance of a Driver in yards by selecting Club Speed (mph) and Spin rate of a golf shot. It is helpful to set objectives for training. For example, a player wants to hit it 300 yards. This Prediction model will help the player know at which speed needs to swing the club for achieving the goal carry distance in yards.
+This is a model to predict the carry distance of a Driver in yards by selecting the Club Speed (mph) and Spin rate of a golf shot. It is helpful to set objectives for training. For example, a player wants to hit it 300 yards. This Prediction model will help the player know at which speed needs to swing the club for achieving the goal carry distance in yards.
 
 
 ## Discussion and Summary
@@ -122,4 +122,4 @@ What would an AI answer to the same questions?
 
 Does the AI align with my answers?
 
-All of the answers are correct but lack some detail because the AI does not have the visualizations or the data. Still, all the objections made about club dynamics and the effect on the ball are correct. It is interesting to see how it develops a good answer and puts examples from different perspectives. The article emphasizes how important data is for golf and the growth of the game. 
+All of the answers ChatGPT generated are correct but lack some detail because the AI does not have the visualizations or the data. The AI cannot answer the questions and personalize them for the players, which is the main purpose of the project. Still, all the objections made about club dynamics and the effect on the ball are correct. It is interesting to see how it develops a good answer and puts examples from different perspectives. The article emphasizes how important data is for golf and the growth of the game. For improving the Elon Golf Team's performance, the AI's simple answers would not be enough because of the lack of detail. On the other hand, the [Interactive App](https://elongolftrackmandata.streamlit.app/) would be a great tool for coaches to identify patterns and organize practice schedules depending on the data results.
