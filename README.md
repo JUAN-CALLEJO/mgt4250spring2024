@@ -35,7 +35,7 @@ For this project, every player recorded three different shots ten times:
 - 175 yds 
 - Driver
 
-For accessing this data, a Trackman Radar recorded the multiple shots from the team members. Once recorded, the raw data was imported and then selected from the connected computer at Elon Golf facility. The initial file was the Trackman file which was converted to a excel file and then to csv file. Preprocessing and cleaning the dataset consisted in removing missing metrics of some shots and deleting outliers that where caused by wrecked golf balls or miscalculations.
+For accessing the [Player Data](https://github.com/JUAN-CALLEJO/mgt4250spring2024/blob/main/player_data.csv), a Trackman Radar recorded the multiple shots from the team members. Once recorded, the raw data was imported and then selected from the connected computer at Elon Golf facility. The initial file was the Trackman file which was converted to a excel file and then to csv file. Preprocessing and cleaning the dataset consisted in removing missing metrics of some shots and deleting outliers that where caused by wrecked golf balls or miscalculations.
 
 ### Column Descriptions:
 
