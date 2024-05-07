@@ -87,8 +87,9 @@ This visualization shows how when players  contact the ball near the center or s
 
 This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, Matt Doyle, and Juan Callejo seem to be the most accurate, with medians right at the target line. Ollie Rotermund shows great consistency with a narrow box, while Jennings Glenn and Pedro Rabadan exhibit the most variability in their shot distances. Jack Wieler and Timmy Gannon have tendencies to overshoot the target, while Juan Callejo, Garret, and Matt Doyle tend to undershoot but are accurate in this shot. Working in distance control is crucial to shoot good rounds, therefore having control of the carry distance is key. Players should consistently work at different distances to know their game and trend dispersion to adjust decisions on the course. 
 
-
 ![newplot (4)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/df8adef2-3988-4b93-8e60-31f0da553d33)
+
+The visualization above shows a more detailed boxplot of Ollie Rotermund's distance dispersion in a 100 yard shot.
 
 ![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
 
