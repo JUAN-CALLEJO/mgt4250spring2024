@@ -88,12 +88,15 @@ This visualization shows how when players  contact the ball near the center or s
 This boxplot helps understand the accuracy in a 100-yard shot: Ollie Rotermund, Matt Doyle, and Juan Callejo seem to be the most accurate, with medians right at the target line. Ollie Rotermund shows great consistency with a narrow box, while Jennings Glenn and Pedro Rabadan exhibit the most variability in their shot distances. Jack Wieler and Timmy Gannon have tendencies to overshoot the target, while Juan Callejo, Garret, and Matt Doyle tend to undershoot but are accurate in this shot. Working in distance control is crucial to shoot good rounds, therefore having control of the carry distance is key. Players should consistently work at different distances to know their game and trend dispersion to adjust decisions on the course. 
 
 ![newplot (5)](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/1fe0ff79-d9e7-4cf1-bf70-2cdd0417cb0b)
+
 The visualization above shows a more detailed boxplot of Ollie Rotermund's distance dispersion in a 100 yard shot.
 
 
 **IV. Driver Shot Carry Distance Predictor**
 
 ![driverpredictor](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/83da0335-480d-40f8-9b2e-228f9c314c6f)
+
+This is a model to predict the carry distance of a Driver in yards by selecting Club Speed (mph) and Spin rate of a golf shot. It is helpfull to set objectives for training. For example, a player wants to hit it 300 yards. This Prediction model will help the player know at which speed needs to swing the club for achieving the goal carry distance in yards.
 
 
 ## Discussion and Summary
