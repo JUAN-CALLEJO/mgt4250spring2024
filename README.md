@@ -2,7 +2,7 @@
 ### **MGT 4250 COURSE PROJECT**
 ### *Juan Callejo Ropero*  (jcallejoropero@elon.edu)
 
-[streamlit-Trackman-2024-05-03-00-05-58.webm](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/70b3bd9f-09f5-4655-b039-9af56052daed)
+[Video](https://github.com/JUAN-CALLEJO/mgt4250spring2024/assets/81531257/70b3bd9f-09f5-4655-b039-9af56052daed)
 
 
 ## Project Description
