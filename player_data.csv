@@ -1,4 +1,4 @@
-Date,Player,Club,Ball,Club Speed (mph),Attack Angle (deg),Club Path (deg),Dyn. Loft(deg),Face Angle (deg),Face To Path (deg),Ball Speed,Smash Factor,Launch Angle (deg),Launch Direction (deg),Spin Rate,Spin Axis,Carry (yards),Carry Time (sec),Total Distance (Yards),Impact Offset (mm),Impact Height (mm),Curve (ft)
+Date,Player,Club,Ball,Club Speed (mph),Attack Angle (deg),Club Path (deg),Dyn. Loft(deg),Face Angle (deg),Face To Path (deg),Ball Speed,Smash Factor,Launch Angle (deg),Launch Direction (deg),Spin Rate,Spin Axis,Carry (yards),Carry Time (sec),Total Distance (Yards),Impact Offset (mm),Impact Height (mm),Curve (ft), Email
 04/11/2024 08:31,Juan Callejo,54º Wedge,Medium,76.14,-7.6,0.6,46.39,1.73,1.13,77.52,1.02,36.28,1.43,7747,-6.136,88.1,4.97,89.03,5.702,-19.409,-10.91,jcallejoropero@elon.edu
 04/11/2024 08:31,Juan Callejo,54º Wedge,Medium,78.03,-7.8,2.2,46.39,1.73,1.13,80.74,1.03,38.62,2.98,7747,-14.46,90,5.25,89.79,-0.915,-16.932,-28.33,jcallejoropero@elon.edu
 04/11/2024 08:32,Juan Callejo,54º Wedge,Medium,75.91,-7.6,1.6,40.546,2.14,0.54,81.3,1.07,36.12,2.07,3567,-3.388,104.5,5.21,112.38,6.891,-16.166,-6.05,jcallejoropero@elon.edu
