@@ -178,3 +178,30 @@ for _, row in df.iterrows():
     player_name = row['Player']
     st.sidebar.markdown(f"[{player_name}]({url})", unsafe_allow_html=True)
 
+st.title('File Upload Example')
+
+
+# Create a file uploader widget
+uploaded_file = st.file_uploader("Choose a file", type=["csv", "xlsx"])
+
+# Check if a file has been uploaded
+if uploaded_file is not None:
+    # Display file details
+    st.write("Filename:", uploaded_file.name)
+    st.write("File type:", uploaded_file.type)
+    st.write("File size:", uploaded_file.size, "bytes")
+
+    # Read the uploaded file
+    if uploaded_file.type == "text/csv":
+        df = pd.read_csv(uploaded_file)
+    elif uploaded_file.type == "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
+        df = pd.read_excel(uploaded_file)
+
+    # Display the contents of the file
+    st.write("File contents:")
+    st.dataframe(df)
+else:
+    st.write("Please upload a file to proceed.")
+
+
+
