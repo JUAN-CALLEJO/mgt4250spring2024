@@ -204,4 +204,61 @@ else:
     st.write("Please upload a file to proceed.")
 
 
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set the title of the app
+st.title('File Upload and Visualization Example')
+
+# Create a file uploader widget
+uploaded_file = st.file_uploader("Choose a file", type=["csv", "xlsx"])
+
+# Check if a file has been uploaded
+if uploaded_file is not None:
+    # Display file details
+    st.write("Filename:", uploaded_file.name)
+    st.write("File type:", uploaded_file.type)
+    st.write("File size:", uploaded_file.size, "bytes")
+
+    # Read the uploaded file
+    if uploaded_file.type == "text/csv":
+        df = pd.read_csv(uploaded_file)
+    elif uploaded_file.type == "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
+        df = pd.read_excel(uploaded_file)
+
+    # Display the contents of the file
+    st.write("File contents:")
+    st.dataframe(df)
+
+    # Visualization: Histogram of Club Speed
+    st.subheader('Histogram of Club Speed')
+    fig, ax = plt.subplots()
+    ax.hist(df['Club Speed (mph)'], bins=20, color='blue', edgecolor='black')
+    ax.set_xlabel('Club Speed (mph)')
+    ax.set_ylabel('Frequency')
+    ax.set_title('Distribution of Club Speed')
+    st.pyplot(fig)
+
+    # Visualization: Scatter Plot of Club Speed vs Ball Speed
+    st.subheader('Scatter Plot of Club Speed vs Ball Speed')
+    fig, ax = plt.subplots()
+    ax.scatter(df['Club Speed (mph)'], df['Ball Speed'], alpha=0.5)
+    ax.set_xlabel('Club Speed (mph)')
+    ax.set_ylabel('Ball Speed')
+    ax.set_title('Club Speed vs Ball Speed')
+    st.pyplot(fig)
+
+    # Visualization: Boxplot of Club Speed by Club Type
+    st.subheader('Boxplot of Club Speed by Club Type')
+    fig, ax = plt.subplots()
+    sns.boxplot(x='Club', y='Club Speed (mph)', data=df, ax=ax)
+    ax.set_xlabel('Club Type')
+    ax.set_ylabel('Club Speed (mph)')
+    ax.set_title('Club Speed by Club Type')
+    st.pyplot(fig)
+else:
+    st.write("Please upload a file to proceed.")
+
 
