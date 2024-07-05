@@ -2,6 +2,6 @@ pandas
 streamlit
 matplotlib
 plotly
-scikit-learn
+scikit-learne
 xlrd
 openpyxl
